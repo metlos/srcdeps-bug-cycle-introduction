@@ -9,9 +9,8 @@
 #
 configModelVersion: 2.0
 repositories:
-
   org.revapi:
     selectors:
     - org.revapi
     urls:
-    - git:https://github.com/revapi/revapi.git
+    - git:git://github.com/revapi/revapi.git

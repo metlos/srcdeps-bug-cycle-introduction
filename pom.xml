@@ -18,6 +18,7 @@
       <groupId>org.revapi</groupId>
       <artifactId>revapi-java</artifactId>
       <version>0.14.1-SNAPSHOT-SRC-revision-8e13254682a1b79ac49b10f8cecb2401725c522e</version>
+      <!-- <version>0.14.0</version>-->
     </dependency>
   </dependencies>
 </project>
